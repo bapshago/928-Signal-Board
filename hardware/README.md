@@ -44,6 +44,18 @@ already in the CPL.
 | JP101, JP201, JP110-JP116, JP210-JP216 | 16 | 1x3 pin header + shunt: universal-channel jumpers |
 | U1 | 1 | ESP32 DevKit, **38-pin** (ESP-WROOM-32), header rows **22.86 mm (0.9 in)** apart, DevKitC V4 pinout |
 
+### Where the first build's parts came from (Amazon)
+
+| What it's for | Product as listed | Notes |
+|---|---|---|
+| J3-J6 inputs (and wiring) | 10 pairs JST-XH 5-pin header connector kit with wires | Listed as "2.54mm"; JST XH is really 2.5 mm pitch and these fit the footprint |
+| J7, J8 ESP32 sockets | 20 pcs female pin header, 1x19, single row, 2.54 mm | 2 per board |
+| JP10, JP101-JP216 jumpers (and a 1x4 socket for the Pololu, if you socket it) | WayinTop pin headers, sockets and jumper caps kit | Break 1x3 and 1x2 strips off the male headers; the kit's jumper caps are the shunts |
+| Enclosure | Zulkit junction box, ABS, 100 x 68 x 50 mm, 2-pack | https://a.co/d/0giEBknB |
+
+J1 (power) and J2 (CAN) are JST XH 2.5 mm footprints: use XH 2-pin (and 3-pin, if you
+want the shield pin on J2) headers. JST-PH (2.0 mm) parts don't fit them.
+
 Solder the ESP32 sockets with the ESP32 board plugged in, so they line up. Check the
 Pololu's orientation twice before soldering it: its **SHDN** pin goes to the end of
 J9 marked SHDN, **VOUT** to the end marked VOUT. Pads joined to the ground plane need
