@@ -82,15 +82,15 @@ mounting flanges, available here: https://a.co/d/0giEBknB
   box sealed and leaves the sides free for mounting; the connectors face up, so the
   wires route straight to it. Leave enough slack to open the lid with the plugs fitted.
 
-![Board in its enclosure, second view](docs/images/installed-in-enclosure-2.jpg)
+![Board in its enclosure, second view](docs/images/4-board-in-the-box-jumpers-set.jpg)
 
 ## Build photos
 
 | | |
 |---|---|
-| ![Layout in JLCPCB's viewer](docs/images/board-jlcpcb-viewer.jpg) | ![Assembled board, connectors and sockets fitted](docs/images/board-assembled.jpg) |
+| ![Layout in JLCPCB's viewer](docs/images/1-board-layout-in-jlcpcbs-viewer.jpg) | ![Assembled board, connectors and sockets fitted](docs/images/2-board-as-delivered-with-connectors-and-sockets-fitted.jpg) |
 | Layout in JLCPCB's viewer | As delivered, with connectors, sockets and jumper headers soldered |
-| ![Wi-Fi status page](docs/images/wifi-status-page.png) | ![Box in the instrument pod during install](docs/images/install-instrument-pod.jpg) |
+| ![Wi-Fi status page](docs/images/3-the-status-page-on-my-phone.png) | ![Box in the instrument pod during install](docs/images/5-the-box-in-the-pod-during-the-install.jpg) |
 | The Wi-Fi status page (bench testing, before a second CAN node was connected) | In the '81's instrument pod during the install, cable gland through the lid |
 
 ## License
