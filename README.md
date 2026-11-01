@@ -84,6 +84,15 @@ mounting flanges, available here: https://a.co/d/0giEBknB
 
 ![Board in its enclosure, second view](docs/images/installed-in-enclosure-2.jpg)
 
+## Build photos
+
+| | |
+|---|---|
+| ![Layout in JLCPCB's viewer](docs/images/board-jlcpcb-viewer.jpg) | ![Assembled board, connectors and sockets fitted](docs/images/board-assembled.jpg) |
+| Layout in JLCPCB's viewer | As delivered, with connectors, sockets and jumper headers soldered |
+| ![Wi-Fi status page](docs/images/wifi-status-page.png) | ![Box in the instrument pod during install](docs/images/install-instrument-pod.jpg) |
+| The Wi-Fi status page (bench testing, before a second CAN node was connected) | In the '81's instrument pod during the install, cable gland through the lid |
+
 ## License
 
 This project (hardware, firmware and documentation) is licensed under the
