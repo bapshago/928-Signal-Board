@@ -8,7 +8,7 @@ modern dash display can then show the car's original warning lights.
 
 ![Board in its enclosure](docs/images/installed-in-enclosure.jpg)
 
-Rev A is built, bench tested and installed in a 1984 928 S.
+Rev A is built, bench tested and installed in an '81 928, where it feeds the turn signal, high beam, lights-on and dimmer to the 928 EV dash ([928EVDASH](https://github.com/bapshago/928EVDASH), v1.1 and later).
 
 ## Features
 
