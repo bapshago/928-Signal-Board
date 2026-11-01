@@ -77,8 +77,10 @@ mounting flanges, available here: https://a.co/d/0giEBknB
   corner screw bosses.
 - The board's two M3 holes, 79 mm apart on its centre line, line up with the box's
   two internal standoffs.
-- Drill the box end for the cable gland or grommet you use; the photos show the
-  CAN cable entering next to J2.
+- Cables: the first build has a cable gland drilled through the **lid**, with all the
+  wiring (power, inputs and CAN) running out through it. A gland in the lid keeps the
+  box sealed and leaves the sides free for mounting; the connectors face up, so the
+  wires route straight to it. Leave enough slack to open the lid with the plugs fitted.
 
 ![Board in its enclosure, second view](docs/images/installed-in-enclosure-2.jpg)
 
